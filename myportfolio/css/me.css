@@ -39,12 +39,14 @@ a:hover{
   align-text:center;
 
 }
-.row{
+#column{
   padding:150px;
 }
 #projects{
-  background-color:
-  color:
-  padding:150px;
-  
+  color:white;
+
+}
+#aboutme{
+  margin-left: 420px;
+
 }
